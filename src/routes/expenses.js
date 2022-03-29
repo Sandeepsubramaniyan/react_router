@@ -5,3 +5,6 @@ function Expenses() {
     </main>      
   );
 }
+
+
+export default Expenses;
